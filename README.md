@@ -71,32 +71,6 @@
 
 ---
 
-## 💎 **Featured Projects**
-- 🤖 **Fake News Detection** – ML + Explainable AI  
-- ♿ **Able Assist** – Accessibility assistant with impairment-based features  
-- 👟 **Shoe Store Website** – Full-stack eCommerce system  
-- 🧠 **AI Quiz Builder** – Smart question generator using NLP  
-
-# 🚀 Featured Projects (Advanced Cards)
-
-### ⚡ Fake News Detection  
-An ML & NLP-based system for multilingual fake news classification.
-
-### ♿ Able Assist  
-Accessibility assistant supporting multiple impairments:
-- Text-to-speech  
-- Caption generator  
-- Grammar fixer  
-- Face detection  
-
-### 👟 Shoe Store Website  
-Modern eCommerce system with cart, authentication, admin panel.
-
-### 🧠 AI Quiz Builder  
-NLP-powered automatic question generator with difficulty rating.
-
----
-
 ## 📬 **Let's Connect**
 <div align="center">
 
