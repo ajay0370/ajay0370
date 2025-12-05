@@ -52,9 +52,6 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajay0370&show_icons=true&theme=react&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajay0370&layout=compact&theme=react&hide_border=true)
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ajay0370&theme=react-dark&hide_border=true)
 
