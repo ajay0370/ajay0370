@@ -20,12 +20,6 @@
 
 ---
 
-## 🔥 **GitHub Contributions Heatmap**
-🐍 *Animated Contribution Snake*
-
-![GitHub Snake Dark](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
----
 
 ## 🧩 **My Coding Profiles & Stats**
 
