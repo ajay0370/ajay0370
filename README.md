@@ -21,16 +21,7 @@
 ---
 
 
-## 🧩 **My Coding Profiles & Stats**
 
-### 🟠 **LeetCode Stats**
-<div align="center">
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/Ajaykumar0037?theme=dark&font=Roboto&ext=heatmap)
-
-</div>
-
----
 
 <div align="center">
 
