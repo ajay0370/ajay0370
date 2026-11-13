@@ -5,7 +5,7 @@
 ### 🚀 **Full-Stack Developer | Problem Solver | Code Athlete**
 ### ⚡ Passionate about AI, Automation, and High-Performance Coding
 
-<img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3500&color=00F7FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;I+build+cool+projects+%26+solve+hard+problems;Always+learning+new+technologies+%F0%9F%9A%80"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&height=60&lines=Welcome+to+my+GitHub+Profile!;I+Build+Cool+Projects+%26+Solve+Hard+Problems;Always+Learning+New+Technologies+%F0%9F%9A%80" />
 
 </div>
 
